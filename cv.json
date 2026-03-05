@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Jhoan Stiven Alzate Arango",
-    "label": "Soy un desarrollador web enfocado en la creación de interfaces de alto rendimiento y sistemas escalables. Mi stack principal incluye Astro, JavaScript y CSS, complementado con un backend sólido en Python. Me especializo en el uso de Docker para entornos de despliegue consistentes y gestiono datos mediante MySQL y MongoDB. Mi objetivo es construir soluciones tecnológicas robustas donde la eficiencia del frontend se encuentre con una arquitectura de backend confiable.",
-    "image": "/miFoto.png",
+    "name": "Jhoan S Alzate A",
+    "label": "Tecnico En Programacion De Software & Desarrollador Web",
+    "image": "/me.webp",
     "email": "holfolzg@gmail.com",
     "phone": "+57 3161703178",
     "url": "https://github.com/holfolzg",
-    "summary": "Soy técnico en Programación de Software especializado en desarrollo web de alto rendimiento y soluciones escalables. Mi enfoque se centra en la creación de sitios con tiempos de carga ultra-rápidos mediante el uso de Astro, JavaScript y CSS. Cuento con un flujo de trabajo avanzado en entornos robustos utilizando WSL, Docker y control de versiones con Git/GitHub. Además, poseo experiencia en la gestión de bases de datos y el testing de APIs con Postman, asegurando siempre la entrega de productos tecnológicos eficientes, optimizados y de alta disponibilidad.",
+    "summary": "Soy un programador especializado en desarrollo web de alto rendimiento y soluciones escalables. Mi enfoque se centra en la creación de sitios con tiempos de carga ultra-rápidos mediante el uso de Astro, JavaScript y CSS. Cuento con un flujo de trabajo avanzado en entornos robustos utilizando WSL, Docker y control de versiones con Git/GitHub. Además, poseo experiencia en la gestión de bases de datos y el testing de APIs con Postman, asegurando siempre la entrega de productos tecnológicos eficientes, optimizados y de alta disponibilidad.",
     "location": {
       "address": "",
       "postalCode": "760015",
@@ -19,11 +19,6 @@
         "network": "LinkedIn",
         "username": "Jhoan S Alzate A",
         "url": "https://linkedin.com/in/holfolzg"
-      },
-      {
-        "network": "X",
-        "username": "Holfolzg",
-        "url": "https://x.com/holfolzg"
       },
       {
         "network": "GitHub",
