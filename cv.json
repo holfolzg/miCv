@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jhoan S Alzate A",
-    "label": "Tecnico En Programacion De Software & Desarrollador Web",
+    "label": "Tecnico En Programacion De Software & Desarrollador FullStack",
     "image": "/me.webp",
     "email": "holfolzg@gmail.com",
     "phone": "+57 3161703178",
@@ -33,7 +33,7 @@
       "position": "Aprendiz tecnico en programacion de software",
       "startDate": "2026-01-21",
       "endDate": "Null",
-      "summary": "En Atlas, me encargué de la gestión y administración de las aplicaciones internas, asegurando que siempre estuvieran operativas. Fui el responsable de configurar y desplegar software corporativo para dispositivos móviles utilizando la plataforma MaaS360 de IBM, donde me aseguré de la conectividad y seguridad de toda la flota de equipos. También diseñé y creé formularios dinámicos dentro de la plataforma Atlas para facilitar la captura de datos en campo y optimicé su funcionamiento. Me ocupé de organizar y crear tablas de análisis a partir de las bases de datos de los clientes para generar métricas clave. Además, lideré las inducciones técnicas y capacitaciones para el personal, enseñándoles a dominar los aplicativos de la empresa y resolviendo cualquier incidencia técnica especializada para mantener la continuidad del trabajo",
+      "summary": "gestioné aplicaciones internas garantizando su operatividad. Administré la flota móvil mediante IBM MaaS360, configurando software corporativo y seguridad. Diseñé formularios dinámicos para captura de datos y analicé bases de datos para generar métricas clave. Además, lideré capacitaciones técnicas al personal y resolví incidencias especializadas, asegurando la continuidad tecnológica y eficiencia de los procesos operativos.",
       "highlights": [
         "Eficiencia, Rapido Aprendizaje"
       ]
@@ -154,11 +154,11 @@
     {
       "name": "PokeApiDocker",
       "isActive": true,
-      "description": "Este proyecto es un ejercicio práctico de una aplicación full-stack que consume la PokeAPI. La arquitectura utiliza un Backend en Python para la gestión de datos y un Frontend en JavaScript para la interfaz, todo orquestado mediante Docker.",
+      "description": "Aplicación full-stack orquestada con Docker. Combina backend en Python y frontend en JavaScript para consumir la PokeAPI, garantizando un despliegue escalable, eficiente y profesional.",
       "highlights": [
         "Api",
         "FrontEnd y BackEnd",
-        "JavaScript, Python, Docker"
+        "JavaScript - Python", "Docker"
       ],
       "url": "https://github.com/holfolzg/PokeApiDocker"
     },
@@ -169,7 +169,7 @@
       "highlights": [
         "Api",
         "Frontend",
-        "JavaScript, Html, Css"
+        "JavaScript - Html - Css"
       ],
       "url": "https://holfolzg.github.io/POKEAPI/"
     },
@@ -178,7 +178,7 @@
       "isActive": true,
       "description": "Es un Cv minimalista con Astro que trae datos de un archivo json, creado con html, css y astro",
       "highlights": [
-        "Html, css",
+        "Html - css - JavaScript",
         "Astro"
       ],
       "url": "https://holfolzg.github.io/miCv/"
