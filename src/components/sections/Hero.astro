@@ -8,6 +8,9 @@ import GitHub from '@/icons/GitHub.astro'
 import WorldMap from '@/icons/WorldMap.astro'
 const { name, label, image, location, profiles, phone, email } = basics
 const { city, region} = location
+const linkedInfo = profiles.find(({ network }) => network == "linkedIn")
+const linkedUrl = linkedInfo?.url
+const printInfo = [email, phone, linkedUrl,].filter(Boolean).join(" - ")
 const SOCIAL_ICONS: Record<string, any> = {
   GitHub,
   LinkedIn,
@@ -23,7 +26,11 @@ const SOCIAL_ICONS: Record<string, any> = {
                 <WorldMap/> 
                 {city}, {region}
             </span>
-            <footer>
+            <footer class="print">
+                {printInfo}
+            </footer>
+            <footer class="no-print">
+                
                 {
                     email && (
                         <a href={`mailto:${email}`}
@@ -109,6 +116,8 @@ const SOCIAL_ICONS: Record<string, any> = {
     }
 
     footer {
+        color: #555;
+        font-size: 0.65rem;
         display: flex;
         gap: 4px;
         margin-top: 8px;
@@ -126,6 +135,8 @@ const SOCIAL_ICONS: Record<string, any> = {
         border-radius: 6px;
         transition: all 0.3s ease;
     }
+
+    
 
     
 </style>

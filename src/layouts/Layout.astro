@@ -48,4 +48,38 @@
 		margin: 0;
 		text-wrap: pretty;
 	}
+
+	.print {
+        display: none !important;
+
+    }
+
+
+    @media print {
+		.print{
+			display: block !important;
+		}
+
+    }
+	@media print{
+		.no-print{
+			display: none !important;
+		}
+	}
+
+	@media print {
+  article, li, section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  h2, h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+}
+@media print {
+    @page {
+        margin: 2.5cm 1.5cm 1.5cm 1.5cm;}
+	}
 </style>
