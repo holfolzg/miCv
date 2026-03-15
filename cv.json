@@ -1,14 +1,13 @@
 {
   "basics": {
     "name": "Jhoan S Alzate A",
-    "label": "Tecnico En Programacion De Software & Desarrollador FullStack",
+    "label": "Tecnico En Programacion De Software & Desarrollador FrontEnd",
     "image": "/me.webp",
     "email": "holfolzg@gmail.com",
     "phone": "+57 3161703178",
     "url": "https://github.com/holfolzg",
-    "summary": "Soy un programador especializado en desarrollo web de alto rendimiento y soluciones escalables. Mi enfoque se centra en la creación de sitios con tiempos de carga ultra-rápidos mediante el uso de Astro, JavaScript y CSS. Cuento con un flujo de trabajo avanzado en entornos robustos utilizando WSL, Docker y control de versiones con Git/GitHub. Además, poseo experiencia en la gestión de bases de datos y el testing de APIs con Postman, asegurando siempre la entrega de productos tecnológicos eficientes, optimizados y de alta disponibilidad.",
+    "summary": "Desarrollador web enfocado en frontend, especializado en la creación de interfaces modernas, rápidas y escalables. Trabajo principalmente con JavaScript, TypeScript, Astro y Angular para construir experiencias web optimizadas y de alto rendimiento. Utilizo herramientas como Git, GitHub y Docker para mantener un flujo de desarrollo eficiente y entornos de trabajo consistentes.",
     "location": {
-      "address": "",
       "postalCode": "760015",
       "city": "Cali",
       "countryCode": "CO",
@@ -33,23 +32,17 @@
       "position": "Aprendiz tecnico en programacion de software",
       "startDate": "2026-01-21",
       "endDate": "Null",
-      "summary": "gestioné aplicaciones internas garantizando su operatividad. Administré la flota móvil mediante IBM MaaS360, configurando software corporativo y seguridad. Diseñé formularios dinámicos para captura de datos y analicé bases de datos para generar métricas clave. Además, lideré capacitaciones técnicas al personal y resolví incidencias especializadas, asegurando la continuidad tecnológica y eficiencia de los procesos operativos.",
-      "highlights": [
-        "Eficiencia, Rapido Aprendizaje"
-      ]
+      "summary": "gestioné aplicaciones internas garantizando su operatividad. Administré la flota móvil mediante IBM MaaS360, configurando software corporativo y seguridad. Diseñé formularios dinámicos para captura de datos y analicé bases de datos para generar métricas clave. Además, lideré capacitaciones técnicas al personal y resolví incidencias especializadas, asegurando la continuidad tecnológica y eficiencia de los procesos operativos."
     }
   ],
   "education": [{
     "institution": "Servicio Nacional De Aprendizaje (SENA)",
     "url": "",
-    "area": "Tecnico En Programacion De Software",
+    "area": "TECNICO EN PROGRAMACION DE SOFTWARE",
     "studyType": "Tecnico",
     "startDate": "2025-03",
     "endDate": "2026-06",
-    "score": "4.5",
-    "courses": [
-      "Programacion De Software"
-    ]
+    "score": "4.5"
   }],
   "certificates": [{
     "name": "BASES DE DATOS GENERALIDADES Y SISTEMAS DE GESTION",
@@ -60,77 +53,17 @@
   }],
 
   "skills": [
-    {
-      "name": "HTML",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "basic",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "basic",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Astro",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "JavaScript"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermedio",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermedio",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermedio",
-      "keywords": [
-        "Backend", "Data Analysis", "Scripting", "API Development"
-      ]
-    }
+  { "name": "JavaScript" },
+  { "name": "TypeScript" },
+  { "name": "HTML" },
+  { "name": "CSS" },
+  { "name": "Angular" },
+  { "name": "Astro" },
+  { "name": "Git" },
+  { "name": "GitHub" },
+  { "name": "Docker" }
   ],
+
   "languages": [
     {
       "language": "Spanish",
@@ -141,15 +74,7 @@
       "fluency": "basic"
     }
   ],
-  "interests": [{
-  "name": "Aprendizaje Continuo",
-  "keywords": [
-    "Cursos en Udemy",
-    "Idiomas",
-    "Canales de Desarrollo",
-    "lectura"
-  ]
-}],
+
   "projects": [
     {
       "name": "PokeApiDocker",
