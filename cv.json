@@ -77,6 +77,17 @@
 
   "projects": [
     {
+      "name": "Pagina web | China Beijing",
+      "isActive": true,
+      "description": "Aplicación web desarrollada con Astro que consume datos dinámicos desde un archivo JSON para mostrar precios y nombres de productos en tiempo real. Enfocada en rendimiento, arquitectura moderna y manejo de datos en frontend.",
+      "highlights": [
+        "App Web",
+        "FrontEnd ",
+        "JavaScript - Css", "Astro"
+      ],
+      "url": "https://chinabeijing.vercel.app/"
+    },
+    {
       "name": "PokeApiDocker",
       "isActive": true,
       "description": "Aplicación full-stack orquestada con Docker. Combina backend en Python y frontend en JavaScript para consumir la PokeAPI, garantizando un despliegue escalable, eficiente y profesional.",
